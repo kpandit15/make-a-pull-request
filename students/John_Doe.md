@@ -1,4 +1,4 @@
-# John Doe
+# Boo Doe
 
 ## 1st Year, CSE
 
